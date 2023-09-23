@@ -10,7 +10,6 @@ class Display(tk.Entry):
                          bg = "gray10",
                          fg = "white",
                         justify = "right")
-        self.focus()
 
 
 class Button(tk.Button):
